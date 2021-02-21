@@ -23,7 +23,7 @@ send("Hello World!")
 input()
 send("Hello Everyone!")
 input()
-send("Hello Durgesh!")
+send("Created By Durgesh H. Kavate!")
 
 send(DISCONNECT_MESSAGE)
 
